@@ -6,6 +6,16 @@ Software engineer and team lead with 10+ years of experience, now deliberately t
 
 ---
 
+## 🎓 Certifications & Courses
+
+| Certificate | Provider | Date | Verify |
+|---|---|---|---|
+| Introduction to LangChain | LangChain Academy | Mar 2026 | [🔗](https://academy.langchain.com/certificates/wg5y73hhpp) |
+| Introduction to LangGraph | LangChain Academy | ⏳ in progress | — |
+| Vector Databases & Embeddings | DeepLearning.AI + Weaviate | 2025 | — |
+
+---
+
 ## 🚀 Projects
 
 ### [Zagadkobot](https://github.com/lszczuro/zagadkobot)
@@ -15,16 +25,6 @@ Android riddle app for kids (ages 5–8) running a fine-tuned LLM **fully offlin
 - Fine-tuned Qwen3.5-4B with LoRA/Unsloth on Google Colab T4
 - Full pipeline: data generation → fine-tuning → GGUF quantization (Q4_K_M) → on-device inference (~3.6 tok/s)
 - Fallback structured output via GBNF grammar-constrained decoding
-
----
-
-## 🎓 Certifications & Courses
-
-| Certificate | Provider | Date | Verify |
-|---|---|---|---|
-| Introduction to LangChain | LangChain Academy | Mar 2026 | [🔗](https://academy.langchain.com/certificates/wg5y73hhpp) |
-| Introduction to LangGraph | LangChain Academy | ⏳ in progress | — |
-| Vector Databases & Embeddings | DeepLearning.AI + Weaviate | 2025 | — |
 
 ---
 
