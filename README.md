@@ -4,8 +4,6 @@ Software engineer and team lead with 10+ years of experience, now deliberately t
 
 **Specializations:** LLMs · RAG pipelines · AI Agents · On-device AI · LangChain · LangGraph
 
----
-
 ## 🚀 Projects
 
 ### [Job Battle](https://github.com/lszczuro/job-battle)
@@ -23,8 +21,6 @@ Android riddle app for kids (ages 5–8) running a fine-tuned LLM **fully offlin
 - Full pipeline: data generation → fine-tuning → GGUF quantization (Q4_K_M) → on-device inference (~3.6 tok/s)
 - Fallback structured output via GBNF grammar-constrained decoding
 
----
-
 ## 🎓 Certifications & Courses
 
 | Certificate | Provider | Date | Verify |
@@ -33,13 +29,9 @@ Android riddle app for kids (ages 5–8) running a fine-tuned LLM **fully offlin
 | Introduction to LangGraph | LangChain Academy | ⏳ in progress | — |
 | Vector Databases & Embeddings | DeepLearning.AI + Weaviate | 2025 | — |
 
----
-
 ## 🛠️ Stack
 
 `Python` `LangChain` `LangGraph` `LangSmith` `RAG` `Hugging Face` `Weaviate` `llama.cpp` `Flutter` `Docker` `PyTorch`
-
----
 
 ## 📫 Contact
 
